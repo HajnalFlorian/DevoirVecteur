@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548150840 source:c:\users\florian\documents\ludus-cours\algo-prog\f2\c\vecteur\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1548151142 c:\users\florian\documents\ludus-cours\algo-prog\f2\c\vecteur\head.h
+
+1548151133 source:c:\users\florian\documents\ludus-cours\algo-prog\f2\c\vecteur\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
